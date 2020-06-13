@@ -3,13 +3,20 @@ All the information collected from [Empires &amp; Allies](https://empiresandalli
 
 | Revision               |    Date     | Obtained assets |
 |-----------------------:|:-----------:|--------|
-|  [20771](assets/20771) | unknown     | gameSettings.xml |
-|  [21187](assets/21187) | unknown     | en_US.xml </br> gameSettings.xml </br> questSettings.xml |
+|  13248                 | unknown     | gameSettings.xml |
+|  [20771](assets/20771) | unknown     | gameSettings.xml </br> questSettings.xml |
+|  [21187](assets/21187) | unknown     | gameSettings.xml </br> questSettings.xml |
 |  22207                 | unknown     | |
+|  24622                 | unknown     | |
+|  25443                 | unknown     | gameSettings.xml |
 |  [27932](assets/27932) | unknown     | gameSettings.xml |
 |  [28396](assets/28396) | unknown     | gameSettings.xml |
+|  28513                 | unknown     | gameSettings.xml |
+|  29362                 | unknown     | |
 |  [29603](assets/29603) | unknown     | ZGame.29603.swf |
 |  [30308](assets/30308) | unknown     | ZGame.30308.swf |
+|  30993                 | unknown     | en_US.xml </br> gameSettings.xml </br> questSettings.xml |
+|  31482                 | unknown     | gameSettings.xml |
 |  [32995](assets/32995) | 21 Oct 2011 | en_US.xml </br> gameSettings.xml |
 |  [34181](assets/34181) | 03 Nov 2011 | en_US.xml |
 |  36014                 | 18 Nov 2011 | |
