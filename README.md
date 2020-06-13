@@ -4,7 +4,7 @@ All the information collected from [Empires &amp; Allies](https://empiresandalli
 | Revision               |    Date     | Obtained assets |
 |-----------------------:|:-----------:|--------|
 |  [20771](assets/20771) | unknown     | gameSettings.xml |
-|  [21187](assets/21187) | unknown     | en_US.xml </br> gameSettings.xml |
+|  [21187](assets/21187) | unknown     | en_US.xml </br> gameSettings.xml </br> questSettings.xml |
 |  22207                 | unknown     | |
 |  [27932](assets/27932) | unknown     | gameSettings.xml |
 |  [28396](assets/28396) | unknown     | gameSettings.xml |
@@ -22,10 +22,27 @@ All the information collected from [Empires &amp; Allies](https://empiresandalli
 |  40463                 | 36 Dec 2011 | |
 |  43268                 | 21 Jan 2012 | |
 |  45121                 | 04 Feb 2012 | |
+|  46978                 | unknown     | |
+|  47751                 | unknown     | |
 |  48702                 | 03 Mar 2012 | |
+|  49606                 | unknown     | |
 |  [50703](assets/50703) | 16 Mar 2012 | en_US.xml |
+|  51417                 | unknown     | |
+|  52440                 | unknown     | |
 |  [52767](assets/52767) | unknown     | some displays/dialogs </br> some displays/screens |
+|  53084                 | unknown     | |
+|  53849                 | unknown     | |
+|  54645                 | unknown     | |
+|  55571                 | unknown     | |
+|  56292                 | unknown     | |
+|  57776                 | unknown     | |
 |  58370                 | unknown     | |
+|  59826                 | unknown     | |
+|  61179                 | unknown     | |
+|  62239                 | unknown     | |
+|  72910                 | unknown     | |
+|  74819                 | unknown     | |
+|  78266                 | unknown     | |
 |  83879                 | unknown     | |
 | [109338](assets/109338)| unknown     | ZGame.109338.swf |
 |    ?                   | 29 Oct 2012 | en_US.xml </br> gameSettings.xml </br> questSettings.xml |
