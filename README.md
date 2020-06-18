@@ -29,28 +29,31 @@ All the information collected from [Empires &amp; Allies](https://empiresandalli
 |  40463                 | 36 Dec 2011 | |
 |  43268                 | 21 Jan 2012 | |
 |  45121                 | 04 Feb 2012 | |
-|  46978                 | unknown     | |
-|  47751                 | unknown     | |
+|  46978                 | 18 Feb 2012 | |
+|  47751                 | 26 Feb 2012 | |
 |  48702                 | 03 Mar 2012 | |
-|  49606                 | unknown     | |
+|  49606                 | 10 Mar 2012 | |
 |  [50703](assets/50703) | 16 Mar 2012 | en_US.xml |
-|  51417                 | unknown     | |
-|  52440                 | unknown     | |
+|  51417                 | 24 Mar 2012 | |
+|  52440                 | 01 Apr 2012 | |
 |  [52767](assets/52767) | unknown     | some displays/dialogs </br> some displays/screens |
-|  53084                 | unknown     | |
-|  53849                 | unknown     | |
-|  54645                 | unknown     | |
-|  55571                 | unknown     | |
-|  56292                 | unknown     | |
-|  57776                 | unknown     | |
-|  58370                 | unknown     | |
-|  59826                 | unknown     | |
-|  61179                 | unknown     | |
-|  62239                 | unknown     | |
-|  72910                 | unknown     | |
-|  74819                 | unknown     | |
-|  78266                 | unknown     | |
+|  53084                 | 08 Apr 2012 | |
+|  53849                 | 15 Apr 2012 | |
+|  54645                 | 21 Apr 2012 | |
+|  55571                 | 28 Apr 2012 | |
+|  56292                 | 06 May 2012 | |
+|  57776                 | 17 May 2012 | |
+|  58370                 | 19 May 2012 | |
+|  59826                 | 06 Jun 2012 | |
+|  61179                 | 09 Jun 2012 | |
+|  62239                 | 16 Jun 2012 | |
+|  72910                 | 24 Aug 2012 | |
+|  74819                 | 08 Sep 2012 | |
+|  78266                 | 29 Sep 2012 | |
 |  83879                 | unknown     | |
 | [109338](assets/109338)| unknown     | ZGame.109338.swf |
 |    ?                   | 29 Oct 2012 | en_US.xml </br> gameSettings.xml </br> questSettings.xml |
+
+
+
 
