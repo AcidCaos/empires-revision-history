@@ -46,10 +46,12 @@ All the information collected from [Empires &amp; Allies](https://empiresandalli
 |  58370                 | 19 May 2012 | |
 |  59826                 | 06 Jun 2012 | |
 |  61179                 | 09 Jun 2012 | |
+|  [61388](assets/61388) | 11 Jun 2012 | ZGame.61388.swf </br> en_US.xml </br> gameSettings.xml </br> questSettings.xml |
 |  62239                 | 16 Jun 2012 | |
 |  72910                 | 24 Aug 2012 | |
 |  74819                 | 08 Sep 2012 | |
 |  78266                 | 29 Sep 2012 | |
+|  [78846](assets/78846) | 03 Oct 2012 | ZGame.78846.swf </br> en_US.xml </br> gameSettings.xml </br> questSettings.xml |
 |  83879                 | unknown     | |
 | [109338](assets/109338)| unknown     | ZGame.109338.swf |
 |    ?                   | 29 Oct 2012 | en_US.xml </br> gameSettings.xml </br> questSettings.xml |
